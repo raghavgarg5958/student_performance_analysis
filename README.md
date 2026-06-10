@@ -185,6 +185,5 @@ This project was completed as part of the **Data Analysis with Python Internship
 
 **Raghav Garg**
 
-Computer Science Student | Data Analytics Enthusiast
+IT Student | Data Analytics Enthusiast
 
-If you found this project useful, consider giving it a ⭐ on GitHub.
